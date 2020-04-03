@@ -26,7 +26,7 @@ A cloud based Android Spying or Monitoring Tool, powered by NodeJS
  - NodeJs 
  - A Server 
 
-## Installation on Heroku [Click Here](https://github.com/XploitWizer/XploitSPY/blob/herooku/README.md)
+## Installation on Heroku [Click Here](https://github.com/vikashmobileclinic/AndroidSpyServer/blob/herooku/README.md)
 
   Video Tutorial for Heroku [Click Here](https://youtu.be/IoJGFZWCPko)
 
