@@ -1,7 +1,7 @@
 /* 
- *   XploitSPY
+ *   VikashSPY
  *   An Android Spying Tool
- *   By Team XploitWizer
+ *   By Team Mr.Chauhan
  */
 
 
