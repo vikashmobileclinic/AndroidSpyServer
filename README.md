@@ -76,7 +76,7 @@ It's recommended to run VikashSPY behind a reverse proxy such as [NGINX](https:/
 
 ## Disclaimer
 <b>VMCSpy Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
-XploitSPY is built for Educational Purpose. Use at your own Risk.</b>
+VMCSpy is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
 <p align="center">Made with ❤️ By <a href="https://github.com/vikashmobileclinic/AndroidSpyServer">Mr.Chauhan</a></p>
