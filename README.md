@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/XploitWizer/XploitSPY/raw/master/server/assets/webpublic/logo.png" height="60"><br>
+<img src="https://github.com/vikashmobileclinic/AndroidSpyServer/raw/master/server/assets/webpublic/logo.png" height="60"><br>
 A cloud based Android Spying or Monitoring Tool, powered by NodeJS
 </p>
 
@@ -68,14 +68,14 @@ A cloud based Android Spying or Monitoring Tool, powered by NodeJS
     4. save the file
     5. run `pm2 restart all`
 
-8. in your browser navigate to `http://<SERVER IP or URL>:22533`
+8. in your browser navigate to `http://<SERVER IP or URL
     
 It's recommended to run VikashSPY behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
 ## Happy Hacking
 
 ## Disclaimer
-<b>XploitWizer Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
+<b>VMCSpy Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
 XploitSPY is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
